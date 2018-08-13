@@ -1,0 +1,11 @@
+/target/
+.project
+.idea/
+*.iml.classpath
+.settings
+.classpath
+*.iml
+node_modules
+.serverless
+.factorypath
+.jqwik-database
