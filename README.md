@@ -1,10 +1,10 @@
 very simple class to show how property based testing with *jqwik* work
 
-you need to run this with *JUNIT5*
+you need to run this with **JUNIT5**
 
 run
 ```
-mvn clena test
+mvn clean test
 ```
 to get the output
 ```
